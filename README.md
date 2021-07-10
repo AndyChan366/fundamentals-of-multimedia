@@ -1,4 +1,4 @@
 # fundamentals-of-multimedia
-This is the homework of course "multimedia technology" in SYSU
+This is the homework of course multimedia technology in SYSU
 
-Teacher: Dongyu Zhang && Liang Lin
+Teacher: **Dongyu Zhang && Liang Lin**
